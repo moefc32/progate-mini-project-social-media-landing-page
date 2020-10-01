@@ -2,8 +2,7 @@
 
 ![Progate](./progate.png)
 
-Repository ini berisi file-file yang dibutuhkan untuk Progate Mini Individual Project 2
-Lebih lengkapnya, silakan bergabung ke Discord [komunitas Progate Indonesia](https://tinyurl.com/ProgateID).
+Repository ini berisi file-file yang dibutuhkan untuk Progate Mini Individual Project 2. Untuk lebih lengkapnya, silakan bergabung bersama kami di Discord [komunitas Progate Indonesia](https://tinyurl.com/ProgateID).
 
 Silakan download file berikut untuk memulai :
 
