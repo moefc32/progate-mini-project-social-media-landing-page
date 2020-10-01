@@ -6,7 +6,7 @@ Lebih lengkapnya, silakan bergabung ke Discord [komunitas Progate Indonesia](htt
 Silakan download file berikut untuk memulai :
 
 ## Panduan
- * [Part 1](https://github.com/moefc32/progate-mini-project-social-media-landing-page/blob/master/Mini_Individual_Project_2_-_Part_1_-_Social_Media_Landing_Page.pdf)
+ * [Part 1](./Mini_Individual_Project_2_-_Part_1_-_Social_Media_Landing_Page.pdf)
 
  ## File pendukung
-  * [Part 1](https://github.com/moefc32/progate-mini-project-social-media-landing-page/blob/master/Part_1_-_Persiapan.rar)
+  * [Part 1](./Part_1_-_Persiapan.rar)
